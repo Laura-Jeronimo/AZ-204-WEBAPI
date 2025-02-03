@@ -1,0 +1,6 @@
+@apidotempo_laura_HostAddress = http://localhost:5212
+
+GET {{apidotempo_laura_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
